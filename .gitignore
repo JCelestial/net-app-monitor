@@ -1,0 +1,9 @@
+web-app-dummy/bin/
+web-app-dummy/obj/
+web-app-dummy/*.user
+web-app-dummy/*.suo
+web-app-dummy/*.vspscc
+web-app-dummy/*.vssscc
+web-app-dummy/.vs/
+web-app-dummy/TestResults/
+web-app-dummy/*.log
